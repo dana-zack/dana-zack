@@ -1,6 +1,8 @@
 ### Dana Zack, MPAS, PA-C turned Software Engineer 👋
 
-Let's talk about tech! danaezack@gmail.com
+Let's talk about tech!
+danaezack@gmail.com
+https://www.linkedin.com/in/danazack/
 
 <!--
 **dana-zack/dana-zack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
