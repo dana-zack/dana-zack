@@ -1,7 +1,7 @@
 ### Dana Zack, MPAS, PA-C turned Software Engineer 👋
 
-Let's talk about tech!
-danaezack@gmail.com
+Let's talk about tech! <br>
+danaezack@gmail.com <br>
 https://www.linkedin.com/in/danazack/
 
 <!--
